@@ -10,5 +10,4 @@ def type(text, delay=0.05, style=Fore.WHITE):
         sys.stdout.flush()
         time.sleep(delay)
     print()
-
-type("hello", style=Fore.GREEN)
+    
